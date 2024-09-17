@@ -1,0 +1,5 @@
+Breve História do Git Hub
+
+O Git foi lançado em 2008, cresceu rapidamente devido à sua interface intuitiva e suporte para colaboração. Em 2018, foi adquirida pela Microsoft por US$ 7,5 bilhões. 
+
+Git Hub é uma plataforma de hospedagem de codigo-fonte e arquivos com controle de versão usando o Git. Ele permite que programadores, utilitários ou qualquer usuário cadastrado na plataforma contribuam em projetos privados e/ou Open Source  ou de qualquer lugar do mundo. Ele é amplamente utilizados por programadores para divulgação de seus trabalhos, promove facil comunicação atraves de recursos que relatam problemas. O GitHub aloja projetos na nuvem utilizando o sistema de controle de versões chamado Git. 
